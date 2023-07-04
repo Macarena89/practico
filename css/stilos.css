@@ -1,0 +1,70 @@
+.carousel-inner{
+   height: 800px
+}
+button {
+   border-radius: 50px;
+   padding: 12px 20px 12px 20px;
+   font-weight: 400;
+   border: 1px solid #ef2a7a;
+   color: #ef2a7a !important;
+   background: transparent !important;
+   margin: 0px 5px 0px 5px;}
+   
+.col-sm-2 > img{
+   width: 600%;
+   height: 80%;
+   text-align: left;
+}
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+   margin: 0%;
+   padding: 0%;
+   border: 0%;
+   background-color: #f4f4f4;}
+
+.carousel-inner{
+   height: 45rem;
+}
+.mia{
+width: 35rem;
+margin-left: 15%;
+}
+
+
+.textos{
+   font-size: xx-large;
+   margin-right: 20%;
+}
+
+#fotos {
+   background-image: linear-gradient(to bottom right, red, yellow);
+   text-align: center;
+   ;
+}
+.xb{
+   height: 20vh;
+}
+.img{
+   height: 20vh;
+}
+.redondo{
+  height:  30vh;
+}
+.card-body{
+   height: 20vh;
+}
+#fotos img{ 
+   width: 220px;
+   height: 226px;
+   
+   margin-top: 4%;
+   margin-left: 4%;
+
+}
+
+
+@media screen and (min-width: 480px) {
+   · #carouselExample{
+     height: 20vh;
+   }
+ }
